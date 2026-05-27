@@ -1,0 +1,13 @@
+id=cruiser
+name=Cruiser
+length=2
+body=C
+hit=X
+sunk=%
+
+[h]
+CC
+
+[v]
+C
+C

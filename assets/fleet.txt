@@ -1,0 +1,5 @@
+carrier=1
+battleship=1
+cruiser=1
+destroyer=1
+submarine=1

@@ -1,0 +1,14 @@
+id=battleship
+name=Battleship
+length=3
+body=B
+hit=X
+sunk=%
+
+[h]
+BBB
+
+[v]
+B
+B
+B

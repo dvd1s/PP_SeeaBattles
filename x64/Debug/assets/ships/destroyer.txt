@@ -1,0 +1,13 @@
+id=destroyer
+name=Destroyer
+length=2
+body=D
+hit=X
+sunk=%
+
+[h]
+DD
+
+[v]
+D
+D

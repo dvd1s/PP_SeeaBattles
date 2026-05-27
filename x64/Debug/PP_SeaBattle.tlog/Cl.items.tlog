@@ -1,0 +1,12 @@
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\main.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\main.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\AssetPaths.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\AssetPaths.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\BattlePhase.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\BattlePhase.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\Board.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\Board.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\BoardRenderer.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\BoardRenderer.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\ConsoleIO.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\ConsoleIO.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\FleetConfig.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\FleetConfig.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\Game.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\Game.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\PlacementPhase.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\PlacementPhase.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\Ship.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\Ship.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\ShipCatalog.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\ShipCatalog.obj
+C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\src\ShipRenderer.cpp;C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\x64\Debug\ShipRenderer.obj

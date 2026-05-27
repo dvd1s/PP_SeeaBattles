@@ -1,0 +1,12 @@
+id=submarine
+name=Submarine
+length=1
+body=S
+hit=X
+sunk=%
+
+[h]
+S
+
+[v]
+S

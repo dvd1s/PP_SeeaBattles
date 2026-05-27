@@ -1,0 +1,16 @@
+﻿  BattlePhase.cpp
+  Board.cpp
+  BoardRenderer.cpp
+  FleetConfig.cpp
+  Game.cpp
+  PlacementPhase.cpp
+  ShipRenderer.cpp
+  Generating Code...
+  PP_SeaBattle.vcxproj -> C:\Users\timpf\source\repos\PP_SeaBattle\x64\Debug\PP_SeaBattle.exe
+  C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\assets\fleet.txt
+  C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\assets\ships\battleship.txt
+  C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\assets\ships\carrier.txt
+  C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\assets\ships\cruiser.txt
+  C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\assets\ships\destroyer.txt
+  C:\Users\timpf\source\repos\PP_SeaBattle\PP_SeaBattle\assets\ships\submarine.txt
+  6 File(s) copied

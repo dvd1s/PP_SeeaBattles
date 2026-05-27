@@ -1,0 +1,15 @@
+id=carrier
+name=Carrier
+length=4
+body=#
+hit=X
+sunk=%
+
+[h]
+####
+
+[v]
+#
+#
+#
+#
